@@ -120,6 +120,7 @@
 			<Language>Русский</Language>
 			<Catalog>Справочник1</Catalog>
 			<Document>Документ1</Document>
+			<DataProcessor>Обработка1</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
